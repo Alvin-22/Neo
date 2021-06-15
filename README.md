@@ -4,7 +4,7 @@ Free, open-source remote access tool for Windows.
 ## Description
 NeoRAT (2/3) hosts a TCP server allowing connections from clients. Supporting C2C with powerful features, including streams of audio, desktop, webcam & keylogger. Available through its CLI.
 
-NeoRAT improved the quality & structure of the code compared to ExRAT. NeoRAT provides more functions, but more importantly an improved interpretation system of the commands along with greatly improved connection stability.
+NeoRAT improved the quality & structure of the code compared to NexRAT. NeoRAT provides more functions, but more importantly an improved interpretation system of the commands along with greatly improved connection stability.
 
 ## Installation
 * git clone https://github.com/Alvin-22/NeoRAT.git && cd NeoRAT
