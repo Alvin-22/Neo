@@ -245,13 +245,13 @@ An example of a command: image --screenshot --monitor 0
 * notice/email-data/to
   * The emails to send the client connection notice to. This is separated by comma, supporting multiple emails, but may just be your own email account.
 
-### Server command line arguments
+### Server CLI Arguments
 * --ipv4 [ipv4]
   * The host server's ip address. The default is localhost.
 * --port [port]
   * The host server port. The default is 1200.
 
-### Client command line arguments
+### Client CLI Arguments
 * --ipv4 [ipv4]
   * The ip address of the server. The default is localhost.
 * --port [port]
