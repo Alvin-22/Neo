@@ -10,7 +10,7 @@ from domestic.global_state import *
 
 @internal_server_error_exception_handling
 def main():
-  state['root'] = '{}/aftermath'.format(os.getcwd().replace('\\', '/'))
+  state['root'] = '{}/Aftermath'.format(os.getcwd().replace('\\', '/'))
   program_setup()
 
   while True:

@@ -6,10 +6,8 @@ import numpy
 import zlib
 import time
 import cv2
-import sys
 
 from desktopmagic.screengrab_win32 import getDisplayRects, getRectAsImage 
-from PIL import ImageGrab
 
 from foreign.parse.crash_exception_handling import *
 from foreign.global_state import *

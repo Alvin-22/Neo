@@ -1,4 +1,3 @@
-import requests
 import argparse
 
 from foreign.global_state import *

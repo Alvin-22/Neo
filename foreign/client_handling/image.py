@@ -1,4 +1,3 @@
-import sys
 import cv2
 
 from desktopmagic.screengrab_win32 import getDisplayRects, getRectAsImage

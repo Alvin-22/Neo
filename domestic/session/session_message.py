@@ -1,5 +1,3 @@
-import time
-
 from domestic.utility.validate_dict_key import *
 from domestic.utility.status_message import *
 from binary.data_handling.send_data import *

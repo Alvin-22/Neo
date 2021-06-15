@@ -3,7 +3,6 @@ import pyaudio
 import socket
 import pickle
 import zlib
-import time
 import sys
 
 from foreign.parse.crash_exception_handling import *
