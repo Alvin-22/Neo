@@ -13,8 +13,10 @@ def alias_parser(data):
       state['settings']['dynamic']['alias-size'] = filesize
 
     for alias in state['settings']['dynamic']['alias-data']:
-      key, value = alias.split('=')
-      if data == key:
-        return value
+      key_value = alias.split('=')
+
+      if len(key_value) == 2:
+        if data == key_value[0]:
+          return key_value[1]
     
   return data
