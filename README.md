@@ -15,7 +15,7 @@ NeoRAT improved the quality & structure of the code compared to NexRAT. NeoRAT p
 * pyinstaller -F -i [.ico filepath] server.py
 * pyinstaller -F -w -i [.ico filepath] client.py
 
-The difference between the EXE installations is that the client script is windowless (-w), becoming a background process operation without the interference of the user.
+The difference between the builds is that the client script is windowless (-w), becoming a background process operation without the interference of the user.
 
 ## Features
 * TCP Network Stream (IPv4)
