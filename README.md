@@ -7,7 +7,7 @@ NeoRAT (2/3) hosts a TCP server allowing connections from clients. Supporting C2
 NeoRAT improved the quality & structure of the code compared to NexRAT. NeoRAT provides more functions, but more importantly an improved interpretation system of the commands along with greatly improved connection stability.
 
 ## Installation
-* git clone https://github.com/Alvin-22/NeoRAT.git && cd NeoRAT
+* git clone https://github.com/Wans1e/NeoRAT.git && cd NeoRAT
 * pip install -r requirements.txt && pipwin install pyaudio
 * start python server.py && start python client.py
 
